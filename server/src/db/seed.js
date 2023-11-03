@@ -65,6 +65,4 @@ async function seed() {
   console.log("Database seeded");
 }
 
-module.exports = {
-  seed,
-};
+module.exports = { seed };
